@@ -5,6 +5,7 @@ This script create a digital clock as per the system's current time.
 * tkinter
 * time
 
+
 ### To install required external modules
 * Run `pip install tkinter` 
 
